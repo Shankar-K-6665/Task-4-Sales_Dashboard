@@ -1,0 +1,501 @@
+Order ID,Customer ID,Product ID,Product Name,Category,Sub-Category,Segment,Region,City,Country,Sales,Profit,Shipping Cost,Quantity,Order Date,Ship Date
+2001,CUST1006,PROD5002,Notebook,Stationery,Paper,Corporate,West,Bangalore,India,56755,16575,303,5,2023-11-27,2023-11-30
+2002,CUST1190,PROD5042,Monitor,Electronics,Displays,Home Office,North,Kolkata,India,71096,17503,353,4,2023-11-24,2023-11-29
+2003,CUST1026,PROD5030,Printer,Electronics,Office Machines,Corporate,West,Mumbai,India,9709,1565,363,1,2024-01-12,2024-01-19
+2004,CUST1172,PROD5030,Mouse,Electronics,Accessories,Home Office,West,Mumbai,India,48965,12889,416,7,2023-04-20,2023-04-25
+2005,CUST1196,PROD5024,Notebook,Stationery,Paper,Corporate,East,Kolkata,India,333558,62102,331,9,2023-05-27,2023-06-02
+2006,CUST1115,PROD5046,Monitor,Electronics,Displays,Corporate,South,Bangalore,India,335340,91960,61,9,2024-01-13,2024-01-15
+2007,CUST1089,PROD5020,Notebook,Stationery,Paper,Corporate,East,Chennai,India,201496,37925,401,4,2023-10-05,2023-10-09
+2008,CUST1040,PROD5001,Notebook,Stationery,Paper,Home Office,East,Chennai,India,21966,3035,244,7,2023-09-08,2023-09-11
+2009,CUST1032,PROD5010,Pen,Stationery,Writing,Consumer,East,Mumbai,India,336920,89186,465,10,2023-03-22,2023-03-26
+2010,CUST1124,PROD5034,Notebook,Stationery,Paper,Home Office,North,Kolkata,India,102075,12171,238,5,2023-05-08,2023-05-10
+2011,CUST1141,PROD5049,Mouse,Electronics,Accessories,Home Office,South,Bangalore,India,276777,46654,362,9,2023-05-15,2023-05-20
+2012,CUST1101,PROD5033,Mouse,Electronics,Accessories,Consumer,East,Bangalore,India,35921,9937,218,1,2024-01-10,2024-01-15
+2013,CUST1109,PROD5010,Notebook,Stationery,Paper,Corporate,North,Delhi,India,648300,37771,141,10,2023-10-30,2023-11-02
+2014,CUST1122,PROD5015,Printer,Electronics,Office Machines,Consumer,North,Kolkata,India,148240,33378,134,10,2023-10-31,2023-11-05
+2015,CUST1003,PROD5008,Notebook,Stationery,Paper,Home Office,East,Kolkata,India,140310,29992,394,5,2023-03-10,2023-03-15
+2016,CUST1132,PROD5032,Mouse,Electronics,Accessories,Consumer,West,Mumbai,India,322656,21758,381,8,2023-05-10,2023-05-17
+2017,CUST1188,PROD5030,Headset,Electronics,Audio,Consumer,South,Mumbai,India,61445,3586,271,1,2023-02-08,2023-02-11
+2018,CUST1093,PROD5036,Pen,Stationery,Writing,Home Office,South,Bangalore,India,181092,25712,362,4,2023-09-03,2023-09-05
+2019,CUST1093,PROD5027,Notebook,Stationery,Paper,Home Office,South,Chennai,India,728210,41844,356,10,2023-04-11,2023-04-18
+2020,CUST1057,PROD5016,Printer,Electronics,Office Machines,Corporate,East,Chennai,India,380070,112635,305,9,2024-01-11,2024-01-15
+2021,CUST1091,PROD5015,Mouse,Electronics,Accessories,Consumer,North,Chennai,India,36684,3362,254,4,2023-04-18,2023-04-23
+2022,CUST1104,PROD5009,Pen,Stationery,Writing,Consumer,East,Bangalore,India,296262,52770,419,6,2023-03-02,2023-03-08
+2023,CUST1008,PROD5035,Printer,Electronics,Office Machines,Consumer,South,Kolkata,India,125328,31954,281,8,2023-05-16,2023-05-22
+2024,CUST1028,PROD5042,Headset,Electronics,Audio,Corporate,East,Bangalore,India,28000,6112,258,2,2023-08-02,2023-08-08
+2025,CUST1102,PROD5045,Pen,Stationery,Writing,Home Office,South,Mumbai,India,321678,93132,197,7,2023-07-24,2023-07-28
+2026,CUST1165,PROD5031,Pen,Stationery,Writing,Consumer,South,Bangalore,India,196770,35427,397,7,2023-06-25,2023-06-30
+2027,CUST1010,PROD5022,Laptop,Electronics,Computers,Consumer,East,Kolkata,India,359610,74393,412,6,2023-05-26,2023-06-01
+2028,CUST1168,PROD5008,Monitor,Electronics,Displays,Consumer,North,Kolkata,India,107680,25339,81,10,2023-07-01,2023-07-05
+2029,CUST1105,PROD5028,Pen,Stationery,Writing,Consumer,North,Kolkata,India,4736,1409,306,1,2023-03-21,2023-03-25
+2030,CUST1116,PROD5008,Monitor,Electronics,Displays,Home Office,East,Mumbai,India,27909,2927,432,9,2023-08-10,2023-08-16
+2031,CUST1164,PROD5012,Laptop,Electronics,Computers,Consumer,West,Kolkata,India,104792,27346,456,4,2023-12-11,2023-12-14
+2032,CUST1198,PROD5039,Printer,Electronics,Office Machines,Corporate,North,Delhi,India,121680,23045,85,6,2023-09-13,2023-09-19
+2033,CUST1183,PROD5030,Monitor,Electronics,Displays,Consumer,East,Kolkata,India,201299,25406,110,7,2023-04-08,2023-04-11
+2034,CUST1134,PROD5037,Laptop,Electronics,Computers,Corporate,South,Bangalore,India,18603,5204,113,1,2023-11-20,2023-11-27
+2035,CUST1183,PROD5033,Laptop,Electronics,Computers,Consumer,North,Hyderabad,India,137300,23846,232,5,2023-06-10,2023-06-13
+2036,CUST1093,PROD5050,Desk,Furniture,Office,Corporate,West,Hyderabad,India,349643,67547,436,7,2023-07-23,2023-07-30
+2037,CUST1124,PROD5042,Pen,Stationery,Writing,Consumer,South,Mumbai,India,202257,59687,216,9,2023-12-29,2024-01-03
+2038,CUST1036,PROD5009,Notebook,Stationery,Paper,Corporate,South,Kolkata,India,565830,43392,410,10,2023-03-25,2023-03-31
+2039,CUST1010,PROD5023,Mouse,Electronics,Accessories,Corporate,East,Chennai,India,102304,27688,494,8,2023-07-04,2023-07-08
+2040,CUST1046,PROD5001,Laptop,Electronics,Computers,Consumer,South,Bangalore,India,266413,33426,311,7,2023-07-27,2023-08-01
+2041,CUST1167,PROD5034,Monitor,Electronics,Displays,Home Office,North,Chennai,India,75179,16338,183,1,2023-09-28,2023-10-03
+2042,CUST1078,PROD5036,Pen,Stationery,Writing,Corporate,South,Hyderabad,India,54060,5207,317,1,2023-12-23,2023-12-26
+2043,CUST1097,PROD5034,Pen,Stationery,Writing,Corporate,South,Kolkata,India,11522,780,93,1,2023-09-09,2023-09-11
+2044,CUST1195,PROD5019,Chair,Furniture,Office,Consumer,North,Hyderabad,India,42960,9284,294,6,2023-01-31,2023-02-03
+2045,CUST1199,PROD5040,Mouse,Electronics,Accessories,Corporate,West,Bangalore,India,158446,16959,302,2,2023-12-31,2024-01-06
+2046,CUST1164,PROD5039,Chair,Furniture,Office,Corporate,South,Bangalore,India,376278,21911,325,6,2023-06-14,2023-06-17
+2047,CUST1017,PROD5014,Desk,Furniture,Office,Consumer,North,Bangalore,India,611640,79575,293,10,2023-05-24,2023-05-27
+2048,CUST1122,PROD5018,Monitor,Electronics,Displays,Home Office,South,Delhi,India,12090,2648,486,2,2023-05-21,2023-05-27
+2049,CUST1191,PROD5040,Pen,Stationery,Writing,Home Office,West,Mumbai,India,164457,44966,334,9,2023-09-05,2023-09-12
+2050,CUST1049,PROD5003,Monitor,Electronics,Displays,Consumer,North,Chennai,India,49836,13189,260,4,2023-01-02,2023-01-04
+2051,CUST1185,PROD5011,Keyboard,Electronics,Accessories,Home Office,West,Hyderabad,India,627440,182446,444,8,2023-06-01,2023-06-06
+2052,CUST1153,PROD5017,Desk,Furniture,Office,Corporate,West,Delhi,India,133826,32177,384,2,2023-11-19,2023-11-25
+2053,CUST1125,PROD5011,Monitor,Electronics,Displays,Consumer,East,Chennai,India,83662,15804,315,2,2024-01-08,2024-01-12
+2054,CUST1074,PROD5034,Monitor,Electronics,Displays,Consumer,East,Hyderabad,India,89442,12855,367,3,2023-09-22,2023-09-25
+2055,CUST1040,PROD5007,Chair,Furniture,Office,Corporate,East,Kolkata,India,71401,18763,404,1,2024-02-04,2024-02-06
+2056,CUST1176,PROD5036,Pen,Stationery,Writing,Home Office,West,Delhi,India,375216,34644,349,8,2023-04-04,2023-04-07
+2057,CUST1119,PROD5030,Keyboard,Electronics,Accessories,Corporate,North,Bangalore,India,19519,2419,120,1,2023-09-30,2023-10-04
+2058,CUST1132,PROD5002,Pen,Stationery,Writing,Home Office,West,Delhi,India,308010,18276,357,5,2023-08-29,2023-09-05
+2059,CUST1199,PROD5050,Monitor,Electronics,Displays,Consumer,East,Kolkata,India,5304,910,130,4,2023-12-16,2023-12-19
+2060,CUST1196,PROD5021,Chair,Furniture,Office,Home Office,South,Kolkata,India,42189,7517,302,7,2023-12-01,2023-12-08
+2061,CUST1112,PROD5042,Headset,Electronics,Audio,Home Office,North,Hyderabad,India,80280,21842,154,2,2023-11-30,2023-12-03
+2062,CUST1161,PROD5049,Printer,Electronics,Office Machines,Consumer,West,Delhi,India,106964,17033,101,2,2023-09-17,2023-09-20
+2063,CUST1178,PROD5019,Monitor,Electronics,Displays,Consumer,North,Delhi,India,39201,11211,62,1,2023-10-06,2023-10-10
+2064,CUST1112,PROD5021,Printer,Electronics,Office Machines,Consumer,North,Kolkata,India,128366,14589,83,7,2023-03-27,2023-04-01
+2065,CUST1032,PROD5022,Notebook,Stationery,Paper,Corporate,North,Chennai,India,58451,5530,444,1,2023-01-06,2023-01-11
+2066,CUST1064,PROD5010,Pen,Stationery,Writing,Consumer,East,Chennai,India,117548,33431,66,2,2023-12-27,2023-12-29
+2067,CUST1110,PROD5040,Notebook,Stationery,Paper,Home Office,West,Kolkata,India,47672,3077,71,4,2023-01-06,2023-01-12
+2068,CUST1038,PROD5042,Monitor,Electronics,Displays,Consumer,North,Hyderabad,India,457905,53588,404,7,2023-08-13,2023-08-20
+2069,CUST1158,PROD5013,Chair,Furniture,Office,Corporate,South,Hyderabad,India,10770,994,204,1,2023-09-02,2023-09-07
+2070,CUST1008,PROD5049,Desk,Furniture,Office,Home Office,East,Bangalore,India,184116,43820,467,4,2023-09-11,2023-09-17
+2071,CUST1126,PROD5047,Printer,Electronics,Office Machines,Home Office,West,Mumbai,India,333750,46170,466,6,2024-01-03,2024-01-05
+2072,CUST1187,PROD5008,Keyboard,Electronics,Accessories,Corporate,North,Mumbai,India,325224,69757,78,9,2023-03-22,2023-03-25
+2073,CUST1014,PROD5046,Chair,Furniture,Office,Corporate,North,Delhi,India,44793,3457,212,7,2023-07-09,2023-07-13
+2074,CUST1076,PROD5030,Keyboard,Electronics,Accessories,Home Office,East,Kolkata,India,60956,18216,110,2,2023-09-12,2023-09-15
+2075,CUST1123,PROD5047,Mouse,Electronics,Accessories,Consumer,West,Mumbai,India,268725,46381,291,5,2023-06-23,2023-06-30
+2076,CUST1085,PROD5026,Mouse,Electronics,Accessories,Corporate,North,Chennai,India,496400,38473,226,8,2023-07-15,2023-07-22
+2077,CUST1189,PROD5003,Laptop,Electronics,Computers,Home Office,West,Chennai,India,343030,92028,52,10,2023-01-14,2023-01-17
+2078,CUST1182,PROD5033,Desk,Furniture,Office,Home Office,South,Delhi,India,358305,40019,267,5,2023-07-12,2023-07-15
+2079,CUST1077,PROD5046,Keyboard,Electronics,Accessories,Home Office,North,Hyderabad,India,32574,5728,303,2,2024-01-18,2024-01-21
+2080,CUST1112,PROD5021,Chair,Furniture,Office,Home Office,West,Bangalore,India,36733,5103,122,1,2023-11-09,2023-11-16
+2081,CUST1105,PROD5021,Mouse,Electronics,Accessories,Corporate,North,Hyderabad,India,38476,11156,321,2,2023-12-28,2023-12-31
+2082,CUST1012,PROD5038,Headset,Electronics,Audio,Corporate,North,Hyderabad,India,450422,129478,253,7,2023-09-09,2023-09-12
+2083,CUST1190,PROD5028,Pen,Stationery,Writing,Corporate,West,Chennai,India,159438,21198,345,6,2024-01-08,2024-01-13
+2084,CUST1084,PROD5012,Keyboard,Electronics,Accessories,Consumer,East,Hyderabad,India,139380,32697,412,4,2023-05-25,2023-05-27
+2085,CUST1131,PROD5021,Laptop,Electronics,Computers,Consumer,North,Kolkata,India,235581,24405,143,3,2023-08-11,2023-08-14
+2086,CUST1166,PROD5016,Keyboard,Electronics,Accessories,Consumer,West,Hyderabad,India,26940,1631,205,6,2023-10-11,2023-10-18
+2087,CUST1031,PROD5022,Mouse,Electronics,Accessories,Consumer,North,Hyderabad,India,469224,65438,475,7,2023-03-14,2023-03-19
+2088,CUST1153,PROD5043,Keyboard,Electronics,Accessories,Home Office,North,Mumbai,India,239004,39244,145,9,2023-10-11,2023-10-13
+2089,CUST1059,PROD5017,Keyboard,Electronics,Accessories,Corporate,South,Chennai,India,705,96,121,1,2023-10-31,2023-11-02
+2090,CUST1023,PROD5013,Notebook,Stationery,Paper,Consumer,East,Hyderabad,India,404824,110188,288,7,2023-08-23,2023-08-27
+2091,CUST1180,PROD5001,Desk,Furniture,Office,Consumer,West,Chennai,India,63408,8296,293,3,2023-03-25,2023-04-01
+2092,CUST1008,PROD5016,Desk,Furniture,Office,Corporate,South,Delhi,India,352989,87112,423,7,2023-10-17,2023-10-23
+2093,CUST1129,PROD5015,Mouse,Electronics,Accessories,Consumer,West,Kolkata,India,119285,15494,189,5,2023-10-23,2023-10-29
+2094,CUST1080,PROD5003,Notebook,Stationery,Paper,Consumer,West,Chennai,India,579222,89028,477,9,2023-08-06,2023-08-09
+2095,CUST1084,PROD5050,Mouse,Electronics,Accessories,Home Office,South,Kolkata,India,216195,17267,81,3,2023-04-05,2023-04-07
+2096,CUST1098,PROD5007,Chair,Furniture,Office,Home Office,South,Bangalore,India,217112,37123,322,4,2023-03-11,2023-03-13
+2097,CUST1122,PROD5021,Notebook,Stationery,Paper,Corporate,South,Chennai,India,84648,5014,287,2,2023-06-08,2023-06-11
+2098,CUST1155,PROD5008,Laptop,Electronics,Computers,Corporate,North,Delhi,India,88299,7546,437,9,2023-05-23,2023-05-30
+2099,CUST1003,PROD5002,Notebook,Stationery,Paper,Corporate,South,Mumbai,India,51727,11820,122,1,2023-07-19,2023-07-24
+2100,CUST1101,PROD5009,Printer,Electronics,Office Machines,Home Office,West,Mumbai,India,279848,72996,396,8,2023-01-12,2023-01-19
+2101,CUST1091,PROD5045,Notebook,Stationery,Paper,Home Office,East,Mumbai,India,24190,5244,372,10,2023-06-03,2023-06-08
+2102,CUST1058,PROD5016,Headset,Electronics,Audio,Corporate,East,Delhi,India,317568,76269,237,6,2023-07-24,2023-07-31
+2103,CUST1043,PROD5042,Monitor,Electronics,Displays,Home Office,South,Kolkata,India,318060,42750,172,10,2023-01-23,2023-01-27
+2104,CUST1014,PROD5048,Desk,Furniture,Office,Home Office,South,Kolkata,India,701120,164622,242,10,2023-03-18,2023-03-22
+2105,CUST1140,PROD5043,Printer,Electronics,Office Machines,Corporate,South,Bangalore,India,106428,16455,182,6,2023-01-08,2023-01-11
+2106,CUST1028,PROD5025,Notebook,Stationery,Paper,Consumer,East,Hyderabad,India,204980,49339,136,5,2023-01-08,2023-01-15
+2107,CUST1178,PROD5042,Monitor,Electronics,Displays,Home Office,East,Mumbai,India,270009,16816,123,9,2023-10-25,2023-10-30
+2108,CUST1168,PROD5002,Keyboard,Electronics,Accessories,Corporate,West,Mumbai,India,79453,10979,119,1,2023-08-20,2023-08-27
+2109,CUST1088,PROD5044,Mouse,Electronics,Accessories,Home Office,West,Delhi,India,589536,88669,324,9,2023-04-23,2023-04-29
+2110,CUST1153,PROD5020,Desk,Furniture,Office,Home Office,East,Delhi,India,312655,46689,50,7,2023-07-22,2023-07-26
+2111,CUST1164,PROD5020,Mouse,Electronics,Accessories,Corporate,East,Bangalore,India,99624,21725,95,4,2023-06-20,2023-06-22
+2112,CUST1030,PROD5012,Keyboard,Electronics,Accessories,Corporate,South,Kolkata,India,183120,45000,364,4,2023-05-18,2023-05-23
+2113,CUST1077,PROD5022,Monitor,Electronics,Displays,Consumer,West,Bangalore,India,98228,18056,357,4,2023-03-15,2023-03-17
+2114,CUST1068,PROD5044,Mouse,Electronics,Accessories,Corporate,South,Delhi,India,423972,56515,281,6,2024-01-01,2024-01-04
+2115,CUST1014,PROD5044,Monitor,Electronics,Displays,Corporate,East,Delhi,India,125868,10113,184,4,2024-01-15,2024-01-18
+2116,CUST1183,PROD5042,Monitor,Electronics,Displays,Corporate,South,Mumbai,India,56008,11239,89,1,2023-05-12,2023-05-19
+2117,CUST1128,PROD5022,Mouse,Electronics,Accessories,Consumer,South,Mumbai,India,244000,40972,148,10,2023-10-29,2023-11-01
+2118,CUST1101,PROD5038,Pen,Stationery,Writing,Consumer,West,Bangalore,India,28162,5575,468,1,2023-09-06,2023-09-12
+2119,CUST1054,PROD5038,Mouse,Electronics,Accessories,Home Office,North,Kolkata,India,90902,22746,419,2,2023-10-01,2023-10-05
+2120,CUST1136,PROD5030,Headset,Electronics,Audio,Consumer,North,Delhi,India,84850,16762,242,10,2023-11-13,2023-11-17
+2121,CUST1123,PROD5018,Desk,Furniture,Office,Home Office,South,Kolkata,India,285060,63587,274,10,2023-05-18,2023-05-22
+2122,CUST1176,PROD5027,Desk,Furniture,Office,Home Office,South,Delhi,India,8280,650,323,2,2023-07-27,2023-08-02
+2123,CUST1023,PROD5036,Mouse,Electronics,Accessories,Corporate,East,Hyderabad,India,342993,53784,99,7,2023-04-04,2023-04-09
+2124,CUST1007,PROD5023,Desk,Furniture,Office,Home Office,South,Chennai,India,132156,28889,204,2,2024-01-13,2024-01-20
+2125,CUST1148,PROD5017,Monitor,Electronics,Displays,Home Office,West,Bangalore,India,88652,23431,112,2,2023-11-05,2023-11-12
+2126,CUST1046,PROD5025,Chair,Furniture,Office,Consumer,North,Chennai,India,54176,15054,499,4,2023-09-25,2023-09-29
+2127,CUST1143,PROD5045,Mouse,Electronics,Accessories,Consumer,South,Kolkata,India,11538,3221,284,9,2024-02-03,2024-02-05
+2128,CUST1086,PROD5002,Laptop,Electronics,Computers,Home Office,East,Mumbai,India,152271,42786,124,7,2023-03-03,2023-03-09
+2129,CUST1116,PROD5007,Headset,Electronics,Audio,Home Office,West,Bangalore,India,77842,9623,250,2,2023-02-12,2023-02-19
+2130,CUST1090,PROD5024,Headset,Electronics,Audio,Home Office,South,Kolkata,India,25362,5015,109,9,2023-05-28,2023-06-04
+2131,CUST1022,PROD5011,Headset,Electronics,Audio,Home Office,West,Kolkata,India,404920,39668,324,8,2023-05-18,2023-05-21
+2132,CUST1178,PROD5019,Keyboard,Electronics,Accessories,Corporate,West,Delhi,India,22295,1241,59,7,2024-02-02,2024-02-05
+2133,CUST1149,PROD5020,Desk,Furniture,Office,Corporate,West,Bangalore,India,97248,20030,254,6,2023-01-26,2023-01-28
+2134,CUST1079,PROD5037,Headset,Electronics,Audio,Home Office,West,Bangalore,India,222921,59082,450,3,2023-12-29,2024-01-05
+2135,CUST1043,PROD5009,Desk,Furniture,Office,Consumer,West,Chennai,India,378064,37003,456,8,2024-01-13,2024-01-17
+2136,CUST1104,PROD5036,Notebook,Stationery,Paper,Corporate,West,Bangalore,India,105288,18870,120,2,2023-04-21,2023-04-27
+2137,CUST1034,PROD5027,Printer,Electronics,Office Machines,Home Office,South,Chennai,India,315048,59627,428,4,2023-05-31,2023-06-04
+2138,CUST1130,PROD5038,Notebook,Stationery,Paper,Consumer,East,Bangalore,India,284564,48165,409,4,2023-07-15,2023-07-22
+2139,CUST1147,PROD5026,Keyboard,Electronics,Accessories,Home Office,South,Chennai,India,207324,33203,195,9,2023-01-12,2023-01-18
+2140,CUST1184,PROD5022,Pen,Stationery,Writing,Home Office,North,Bangalore,India,385050,84270,308,5,2023-06-04,2023-06-08
+2141,CUST1078,PROD5048,Keyboard,Electronics,Accessories,Corporate,East,Chennai,India,535059,158655,277,9,2023-02-27,2023-03-06
+2142,CUST1016,PROD5031,Monitor,Electronics,Displays,Corporate,East,Mumbai,India,98286,8105,496,6,2023-11-10,2023-11-13
+2143,CUST1166,PROD5024,Chair,Furniture,Office,Consumer,North,Kolkata,India,150234,15594,288,7,2023-12-16,2023-12-23
+2144,CUST1169,PROD5015,Desk,Furniture,Office,Corporate,North,Mumbai,India,40486,4532,441,2,2023-07-10,2023-07-16
+2145,CUST1157,PROD5044,Mouse,Electronics,Accessories,Home Office,North,Chennai,India,466130,74546,451,10,2023-04-26,2023-05-02
+2146,CUST1173,PROD5011,Chair,Furniture,Office,Home Office,South,Hyderabad,India,81840,20162,411,5,2023-05-22,2023-05-24
+2147,CUST1090,PROD5026,Headset,Electronics,Audio,Corporate,South,Chennai,India,233832,67819,131,6,2023-05-09,2023-05-13
+2148,CUST1027,PROD5019,Mouse,Electronics,Accessories,Home Office,West,Chennai,India,141502,39931,108,2,2024-01-10,2024-01-14
+2149,CUST1028,PROD5008,Mouse,Electronics,Accessories,Corporate,South,Mumbai,India,201032,11759,96,4,2023-11-26,2023-12-01
+2150,CUST1181,PROD5019,Desk,Furniture,Office,Home Office,West,Delhi,India,148726,13428,259,2,2023-03-26,2023-03-28
+2151,CUST1141,PROD5049,Printer,Electronics,Office Machines,Corporate,East,Delhi,India,343300,47086,142,5,2023-11-27,2023-12-02
+2152,CUST1158,PROD5015,Monitor,Electronics,Displays,Consumer,East,Kolkata,India,38892,7546,277,3,2023-07-02,2023-07-05
+2153,CUST1052,PROD5027,Chair,Furniture,Office,Corporate,West,Delhi,India,217045,51778,101,5,2023-07-31,2023-08-04
+2154,CUST1095,PROD5048,Headset,Electronics,Audio,Consumer,West,Delhi,India,229130,46569,111,5,2023-09-17,2023-09-20
+2155,CUST1009,PROD5030,Notebook,Stationery,Paper,Consumer,South,Bangalore,India,394646,33101,436,7,2023-11-08,2023-11-12
+2156,CUST1105,PROD5002,Mouse,Electronics,Accessories,Consumer,South,Kolkata,India,459330,74887,389,6,2023-08-24,2023-08-27
+2157,CUST1085,PROD5021,Mouse,Electronics,Accessories,Consumer,South,Hyderabad,India,79632,23742,89,2,2023-10-08,2023-10-10
+2158,CUST1018,PROD5046,Headset,Electronics,Audio,Consumer,South,Bangalore,India,15312,2433,212,4,2023-06-08,2023-06-15
+2159,CUST1197,PROD5029,Chair,Furniture,Office,Home Office,West,Kolkata,India,238690,19408,86,5,2023-12-20,2023-12-23
+2160,CUST1138,PROD5034,Mouse,Electronics,Accessories,Corporate,South,Hyderabad,India,11024,879,379,2,2023-09-07,2023-09-11
+2161,CUST1056,PROD5044,Headset,Electronics,Audio,Consumer,North,Delhi,India,81490,13781,234,2,2023-12-25,2023-12-27
+2162,CUST1073,PROD5033,Mouse,Electronics,Accessories,Home Office,North,Hyderabad,India,295358,79868,55,7,2023-03-22,2023-03-24
+2163,CUST1062,PROD5044,Laptop,Electronics,Computers,Consumer,South,Mumbai,India,519885,30963,171,9,2023-04-09,2023-04-15
+2164,CUST1126,PROD5045,Desk,Furniture,Office,Corporate,East,Bangalore,India,210912,44058,318,6,2023-10-02,2023-10-04
+2165,CUST1153,PROD5016,Chair,Furniture,Office,Home Office,South,Mumbai,India,105770,19530,135,7,2023-09-21,2023-09-26
+2166,CUST1019,PROD5037,Pen,Stationery,Writing,Consumer,South,Chennai,India,329350,90808,129,5,2023-09-11,2023-09-16
+2167,CUST1006,PROD5046,Keyboard,Electronics,Accessories,Corporate,South,Kolkata,India,543760,85126,445,10,2023-03-19,2023-03-25
+2168,CUST1121,PROD5005,Notebook,Stationery,Paper,Home Office,West,Hyderabad,India,68149,19018,259,1,2023-10-24,2023-10-26
+2169,CUST1008,PROD5013,Keyboard,Electronics,Accessories,Corporate,South,Hyderabad,India,53270,7841,311,1,2023-10-26,2023-11-02
+2170,CUST1184,PROD5035,Printer,Electronics,Office Machines,Home Office,South,Delhi,India,155072,41097,410,8,2023-11-07,2023-11-13
+2171,CUST1035,PROD5044,Pen,Stationery,Writing,Corporate,South,Chennai,India,70020,13518,108,1,2023-04-18,2023-04-24
+2172,CUST1088,PROD5034,Headset,Electronics,Audio,Home Office,North,Delhi,India,478518,140455,415,6,2023-09-24,2023-10-01
+2173,CUST1084,PROD5002,Headset,Electronics,Audio,Home Office,West,Kolkata,India,212534,41373,172,7,2023-02-07,2023-02-13
+2174,CUST1078,PROD5029,Desk,Furniture,Office,Corporate,West,Hyderabad,India,220598,26737,305,7,2023-04-21,2023-04-28
+2175,CUST1122,PROD5023,Monitor,Electronics,Displays,Home Office,South,Mumbai,India,61688,9081,476,1,2024-02-02,2024-02-05
+2176,CUST1121,PROD5030,Monitor,Electronics,Displays,Home Office,West,Delhi,India,104314,25872,181,2,2024-01-09,2024-01-11
+2177,CUST1100,PROD5013,Laptop,Electronics,Computers,Home Office,West,Kolkata,India,166672,25213,495,8,2023-01-06,2023-01-10
+2178,CUST1127,PROD5024,Notebook,Stationery,Paper,Consumer,South,Hyderabad,India,233264,28439,397,8,2023-04-16,2023-04-22
+2179,CUST1200,PROD5029,Pen,Stationery,Writing,Home Office,East,Mumbai,India,93575,6463,311,5,2024-01-22,2024-01-28
+2180,CUST1039,PROD5009,Desk,Furniture,Office,Home Office,North,Mumbai,India,160364,34887,390,4,2023-05-11,2023-05-16
+2181,CUST1184,PROD5043,Pen,Stationery,Writing,Consumer,South,Bangalore,India,37646,8876,200,7,2023-06-08,2023-06-13
+2182,CUST1177,PROD5040,Desk,Furniture,Office,Home Office,West,Delhi,India,211070,19160,196,5,2023-01-01,2023-01-04
+2183,CUST1156,PROD5008,Keyboard,Electronics,Accessories,Consumer,North,Delhi,India,221921,13622,158,7,2023-02-20,2023-02-24
+2184,CUST1096,PROD5048,Headset,Electronics,Audio,Home Office,West,Bangalore,India,232323,35600,56,7,2023-08-21,2023-08-28
+2185,CUST1196,PROD5044,Desk,Furniture,Office,Corporate,West,Bangalore,India,442548,49723,225,9,2023-09-26,2023-10-03
+2186,CUST1145,PROD5035,Headset,Electronics,Audio,Home Office,East,Kolkata,India,62560,16506,63,1,2023-01-15,2023-01-17
+2187,CUST1146,PROD5044,Notebook,Stationery,Paper,Consumer,North,Chennai,India,88232,9862,452,2,2023-02-27,2023-03-03
+2188,CUST1119,PROD5041,Monitor,Electronics,Displays,Home Office,West,Chennai,India,30708,8016,270,1,2023-04-06,2023-04-09
+2189,CUST1039,PROD5040,Printer,Electronics,Office Machines,Corporate,East,Delhi,India,24864,6289,416,7,2023-10-04,2023-10-07
+2190,CUST1178,PROD5026,Monitor,Electronics,Displays,Home Office,West,Delhi,India,135594,24612,436,2,2023-12-05,2023-12-09
+2191,CUST1047,PROD5030,Chair,Furniture,Office,Consumer,South,Kolkata,India,52746,12136,374,1,2023-06-10,2023-06-12
+2192,CUST1035,PROD5036,Notebook,Stationery,Paper,Corporate,North,Hyderabad,India,27770,2271,328,2,2023-04-27,2023-05-03
+2193,CUST1191,PROD5034,Mouse,Electronics,Accessories,Consumer,South,Hyderabad,India,267150,42164,83,6,2023-09-25,2023-09-30
+2194,CUST1094,PROD5030,Headset,Electronics,Audio,Consumer,South,Chennai,India,30632,2503,230,7,2023-07-08,2023-07-11
+2195,CUST1049,PROD5014,Printer,Electronics,Office Machines,Home Office,North,Delhi,India,98784,11915,122,6,2023-01-03,2023-01-07
+2196,CUST1109,PROD5001,Pen,Stationery,Writing,Consumer,South,Delhi,India,92204,13758,68,7,2023-02-28,2023-03-05
+2197,CUST1171,PROD5046,Desk,Furniture,Office,Consumer,East,Chennai,India,87192,14433,414,2,2023-01-31,2023-02-03
+2198,CUST1094,PROD5007,Notebook,Stationery,Paper,Home Office,West,Delhi,India,60685,10086,421,1,2024-01-27,2024-02-01
+2199,CUST1132,PROD5014,Notebook,Stationery,Paper,Home Office,South,Hyderabad,India,190794,43832,219,6,2023-05-16,2023-05-23
+2200,CUST1179,PROD5047,Printer,Electronics,Office Machines,Consumer,South,Chennai,India,80024,12334,122,8,2024-01-07,2024-01-09
+2201,CUST1099,PROD5029,Printer,Electronics,Office Machines,Corporate,East,Mumbai,India,416136,88738,321,7,2024-01-19,2024-01-21
+2202,CUST1124,PROD5010,Monitor,Electronics,Displays,Home Office,West,Mumbai,India,10518,2119,148,2,2023-10-16,2023-10-22
+2203,CUST1194,PROD5046,Notebook,Stationery,Paper,Home Office,North,Mumbai,India,291460,78815,358,10,2023-04-12,2023-04-17
+2204,CUST1092,PROD5039,Laptop,Electronics,Computers,Corporate,West,Hyderabad,India,479540,76495,150,10,2023-02-20,2023-02-22
+2205,CUST1130,PROD5045,Pen,Stationery,Writing,Consumer,East,Chennai,India,330882,74582,345,6,2023-05-29,2023-06-04
+2206,CUST1179,PROD5029,Chair,Furniture,Office,Corporate,South,Bangalore,India,140524,21327,403,4,2024-02-03,2024-02-05
+2207,CUST1153,PROD5006,Laptop,Electronics,Computers,Corporate,East,Bangalore,India,42193,7081,311,1,2024-01-28,2024-02-01
+2208,CUST1167,PROD5011,Pen,Stationery,Writing,Corporate,West,Delhi,India,142286,34613,270,2,2023-02-13,2023-02-18
+2209,CUST1056,PROD5014,Desk,Furniture,Office,Corporate,North,Delhi,India,91161,15642,153,7,2023-05-23,2023-05-29
+2210,CUST1041,PROD5040,Printer,Electronics,Office Machines,Corporate,West,Mumbai,India,240080,26048,261,8,2023-04-26,2023-04-29
+2211,CUST1117,PROD5037,Printer,Electronics,Office Machines,Corporate,North,Chennai,India,92580,21384,243,4,2023-01-07,2023-01-13
+2212,CUST1137,PROD5018,Monitor,Electronics,Displays,Home Office,West,Chennai,India,108820,19538,97,10,2023-11-19,2023-11-22
+2213,CUST1105,PROD5029,Mouse,Electronics,Accessories,Consumer,East,Hyderabad,India,28170,7061,188,2,2023-09-04,2023-09-09
+2214,CUST1162,PROD5011,Monitor,Electronics,Displays,Corporate,West,Hyderabad,India,150776,24455,398,2,2024-01-17,2024-01-20
+2215,CUST1192,PROD5040,Desk,Furniture,Office,Consumer,North,Mumbai,India,11877,1189,174,1,2023-06-03,2023-06-09
+2216,CUST1150,PROD5016,Mouse,Electronics,Accessories,Corporate,West,Bangalore,India,243852,22519,386,7,2023-03-30,2023-04-06
+2217,CUST1057,PROD5007,Headset,Electronics,Audio,Corporate,West,Hyderabad,India,226032,54212,341,4,2023-12-03,2023-12-07
+2218,CUST1007,PROD5011,Headset,Electronics,Audio,Corporate,South,Delhi,India,64383,5658,401,1,2023-10-16,2023-10-22
+2219,CUST1095,PROD5035,Keyboard,Electronics,Accessories,Corporate,East,Chennai,India,80640,19325,243,7,2023-01-02,2023-01-06
+2220,CUST1197,PROD5002,Pen,Stationery,Writing,Home Office,North,Bangalore,India,466860,100160,174,6,2023-03-10,2023-03-14
+2221,CUST1069,PROD5003,Keyboard,Electronics,Accessories,Home Office,South,Hyderabad,India,123014,30062,173,2,2024-01-25,2024-02-01
+2222,CUST1003,PROD5014,Printer,Electronics,Office Machines,Corporate,West,Kolkata,India,4411,747,418,1,2024-01-21,2024-01-26
+2223,CUST1146,PROD5009,Keyboard,Electronics,Accessories,Consumer,East,Kolkata,India,370432,20592,213,8,2023-01-14,2023-01-20
+2224,CUST1156,PROD5034,Notebook,Stationery,Paper,Corporate,North,Bangalore,India,177108,23634,293,3,2023-03-18,2023-03-22
+2225,CUST1042,PROD5039,Chair,Furniture,Office,Home Office,East,Bangalore,India,81090,20005,456,9,2023-01-02,2023-01-04
+2226,CUST1070,PROD5024,Headset,Electronics,Audio,Corporate,West,Kolkata,India,150840,13167,122,4,2023-09-29,2023-10-06
+2227,CUST1109,PROD5038,Printer,Electronics,Office Machines,Corporate,North,Chennai,India,96216,18589,77,6,2023-09-27,2023-10-04
+2228,CUST1023,PROD5029,Headset,Electronics,Audio,Corporate,East,Bangalore,India,25402,3967,134,2,2023-04-06,2023-04-10
+2229,CUST1063,PROD5044,Pen,Stationery,Writing,Consumer,East,Kolkata,India,553640,63462,111,10,2023-03-21,2023-03-28
+2230,CUST1151,PROD5020,Laptop,Electronics,Computers,Home Office,North,Bangalore,India,106344,23391,245,4,2023-01-10,2023-01-17
+2231,CUST1145,PROD5032,Chair,Furniture,Office,Corporate,South,Chennai,India,200766,10194,84,3,2023-08-23,2023-08-29
+2232,CUST1175,PROD5024,Keyboard,Electronics,Accessories,Consumer,East,Chennai,India,134592,17562,425,3,2023-08-07,2023-08-11
+2233,CUST1199,PROD5037,Mouse,Electronics,Accessories,Corporate,North,Kolkata,India,210546,25110,417,7,2023-11-20,2023-11-24
+2234,CUST1148,PROD5020,Notebook,Stationery,Paper,Corporate,South,Mumbai,India,201468,51599,285,3,2023-02-22,2023-02-27
+2235,CUST1018,PROD5031,Printer,Electronics,Office Machines,Consumer,East,Chennai,India,49412,13526,264,4,2023-11-28,2023-12-03
+2236,CUST1077,PROD5032,Headset,Electronics,Audio,Consumer,South,Chennai,India,110789,7600,402,7,2023-08-20,2023-08-22
+2237,CUST1074,PROD5010,Headset,Electronics,Audio,Home Office,West,Mumbai,India,317163,17377,171,7,2023-10-23,2023-10-26
+2238,CUST1026,PROD5028,Headset,Electronics,Audio,Consumer,South,Mumbai,India,56414,14544,239,2,2023-04-10,2023-04-14
+2239,CUST1045,PROD5026,Monitor,Electronics,Displays,Corporate,West,Delhi,India,389800,78986,487,8,2024-01-06,2024-01-11
+2240,CUST1088,PROD5038,Desk,Furniture,Office,Consumer,South,Delhi,India,135720,39949,237,6,2023-11-03,2023-11-07
+2241,CUST1194,PROD5038,Pen,Stationery,Writing,Corporate,North,Kolkata,India,41856,10943,251,6,2023-12-22,2023-12-26
+2242,CUST1158,PROD5020,Keyboard,Electronics,Accessories,Home Office,East,Chennai,India,87260,23771,188,10,2023-09-11,2023-09-15
+2243,CUST1006,PROD5028,Chair,Furniture,Office,Consumer,West,Bangalore,India,10110,2242,500,5,2023-10-31,2023-11-02
+2244,CUST1188,PROD5030,Monitor,Electronics,Displays,Consumer,West,Bangalore,India,31907,8692,260,1,2023-01-02,2023-01-07
+2245,CUST1140,PROD5033,Monitor,Electronics,Displays,Home Office,North,Mumbai,India,55848,5748,131,3,2023-04-13,2023-04-20
+2246,CUST1028,PROD5005,Desk,Furniture,Office,Corporate,East,Bangalore,India,322080,33492,306,10,2023-04-07,2023-04-13
+2247,CUST1022,PROD5028,Chair,Furniture,Office,Consumer,East,Mumbai,India,269268,51565,395,4,2023-01-02,2023-01-04
+2248,CUST1002,PROD5043,Mouse,Electronics,Accessories,Home Office,East,Mumbai,India,686760,64038,264,10,2023-10-06,2023-10-12
+2249,CUST1028,PROD5009,Laptop,Electronics,Computers,Corporate,South,Kolkata,India,317133,33879,101,9,2023-01-03,2023-01-10
+2250,CUST1060,PROD5049,Printer,Electronics,Office Machines,Home Office,East,Bangalore,India,121689,35913,177,9,2024-01-07,2024-01-11
+2251,CUST1026,PROD5012,Monitor,Electronics,Displays,Corporate,East,Chennai,India,94179,22272,318,3,2023-01-08,2023-01-14
+2252,CUST1028,PROD5040,Desk,Furniture,Office,Consumer,South,Hyderabad,India,103957,5324,243,7,2023-10-01,2023-10-05
+2253,CUST1083,PROD5029,Pen,Stationery,Writing,Home Office,South,Kolkata,India,581048,156271,291,8,2023-07-20,2023-07-22
+2254,CUST1076,PROD5050,Desk,Furniture,Office,Home Office,West,Hyderabad,India,33412,2352,169,4,2023-07-12,2023-07-15
+2255,CUST1052,PROD5049,Headset,Electronics,Audio,Home Office,West,Mumbai,India,233700,26094,153,6,2023-10-07,2023-10-13
+2256,CUST1157,PROD5049,Laptop,Electronics,Computers,Consumer,North,Delhi,India,79124,13028,120,1,2023-11-26,2023-12-02
+2257,CUST1155,PROD5031,Monitor,Electronics,Displays,Consumer,South,Mumbai,India,29610,4503,372,9,2023-03-09,2023-03-13
+2258,CUST1154,PROD5019,Mouse,Electronics,Accessories,Corporate,South,Chennai,India,5406,1193,470,2,2023-09-18,2023-09-25
+2259,CUST1117,PROD5008,Chair,Furniture,Office,Corporate,West,Chennai,India,295380,27323,63,4,2023-10-16,2023-10-18
+2260,CUST1177,PROD5009,Printer,Electronics,Office Machines,Consumer,East,Kolkata,India,403074,22206,63,9,2023-01-20,2023-01-26
+2261,CUST1089,PROD5048,Laptop,Electronics,Computers,Home Office,East,Delhi,India,51778,5682,472,1,2023-06-19,2023-06-21
+2262,CUST1093,PROD5023,Laptop,Electronics,Computers,Consumer,South,Chennai,India,444594,97975,430,6,2023-05-17,2023-05-22
+2263,CUST1016,PROD5008,Chair,Furniture,Office,Home Office,South,Delhi,India,494641,43959,205,7,2023-10-03,2023-10-08
+2264,CUST1023,PROD5005,Desk,Furniture,Office,Home Office,East,Hyderabad,India,597924,135952,396,9,2023-10-10,2023-10-16
+2265,CUST1017,PROD5016,Chair,Furniture,Office,Home Office,West,Delhi,India,145376,18439,371,8,2023-09-03,2023-09-08
+2266,CUST1065,PROD5047,Mouse,Electronics,Accessories,Home Office,North,Bangalore,India,187404,40006,227,6,2023-06-26,2023-07-01
+2267,CUST1050,PROD5033,Mouse,Electronics,Accessories,Corporate,South,Chennai,India,522830,151900,339,7,2023-08-16,2023-08-18
+2268,CUST1185,PROD5022,Chair,Furniture,Office,Corporate,East,Bangalore,India,129350,33329,234,5,2023-07-31,2023-08-02
+2269,CUST1079,PROD5001,Chair,Furniture,Office,Consumer,North,Chennai,India,64636,6328,241,2,2023-01-30,2023-02-04
+2270,CUST1172,PROD5004,Monitor,Electronics,Displays,Home Office,South,Mumbai,India,99776,22798,117,2,2023-06-30,2023-07-03
+2271,CUST1007,PROD5008,Pen,Stationery,Writing,Home Office,West,Bangalore,India,117061,26612,307,7,2023-02-26,2023-03-04
+2272,CUST1094,PROD5049,Notebook,Stationery,Paper,Consumer,East,Kolkata,India,300342,54344,173,6,2023-12-06,2023-12-13
+2273,CUST1117,PROD5004,Monitor,Electronics,Displays,Home Office,East,Hyderabad,India,8070,927,305,6,2023-07-30,2023-08-05
+2274,CUST1085,PROD5040,Notebook,Stationery,Paper,Corporate,South,Bangalore,India,460160,90027,433,8,2023-10-05,2023-10-10
+2275,CUST1044,PROD5036,Desk,Furniture,Office,Corporate,North,Bangalore,India,534006,45053,344,9,2023-01-10,2023-01-13
+2276,CUST1067,PROD5042,Chair,Furniture,Office,Corporate,North,Bangalore,India,8967,1709,431,1,2023-02-12,2023-02-16
+2277,CUST1047,PROD5033,Laptop,Electronics,Computers,Home Office,West,Chennai,India,156956,22910,479,4,2023-12-24,2023-12-29
+2278,CUST1011,PROD5024,Pen,Stationery,Writing,Corporate,South,Mumbai,India,74226,12682,416,6,2023-02-12,2023-02-19
+2279,CUST1084,PROD5008,Pen,Stationery,Writing,Home Office,North,Chennai,India,313952,82679,225,8,2024-01-31,2024-02-02
+2280,CUST1151,PROD5037,Printer,Electronics,Office Machines,Home Office,West,Bangalore,India,303068,85875,188,4,2023-03-06,2023-03-09
+2281,CUST1115,PROD5047,Headset,Electronics,Audio,Corporate,West,Hyderabad,India,209342,57794,247,7,2023-09-28,2023-10-05
+2282,CUST1149,PROD5026,Printer,Electronics,Office Machines,Home Office,West,Chennai,India,4867,788,349,1,2023-11-24,2023-11-28
+2283,CUST1008,PROD5047,Chair,Furniture,Office,Consumer,West,Delhi,India,447975,46583,399,9,2023-08-08,2023-08-13
+2284,CUST1194,PROD5044,Pen,Stationery,Writing,Consumer,East,Bangalore,India,219196,49875,141,4,2023-01-20,2023-01-23
+2285,CUST1183,PROD5029,Monitor,Electronics,Displays,Home Office,West,Kolkata,India,58251,16100,413,3,2023-06-15,2023-06-21
+2286,CUST1128,PROD5008,Laptop,Electronics,Computers,Home Office,South,Chennai,India,313332,79185,298,4,2023-09-08,2023-09-14
+2287,CUST1121,PROD5040,Headset,Electronics,Audio,Consumer,South,Bangalore,India,467960,99244,371,10,2023-04-07,2023-04-13
+2288,CUST1040,PROD5050,Headset,Electronics,Audio,Home Office,East,Kolkata,India,97264,12008,407,8,2023-09-28,2023-10-04
+2289,CUST1115,PROD5012,Pen,Stationery,Writing,Home Office,East,Chennai,India,607167,39707,71,9,2023-02-18,2023-02-24
+2290,CUST1015,PROD5026,Pen,Stationery,Writing,Corporate,North,Hyderabad,India,9948,2303,108,3,2023-02-04,2023-02-08
+2291,CUST1075,PROD5030,Desk,Furniture,Office,Consumer,South,Chennai,India,275792,36233,244,4,2023-09-21,2023-09-26
+2292,CUST1027,PROD5037,Printer,Electronics,Office Machines,Consumer,South,Kolkata,India,56300,10606,322,5,2024-01-31,2024-02-04
+2293,CUST1118,PROD5002,Headset,Electronics,Audio,Home Office,East,Bangalore,India,51547,12664,163,1,2023-03-04,2023-03-08
+2294,CUST1124,PROD5041,Keyboard,Electronics,Accessories,Corporate,North,Bangalore,India,25690,3111,465,1,2023-12-14,2023-12-18
+2295,CUST1060,PROD5008,Printer,Electronics,Office Machines,Home Office,South,Chennai,India,100218,20227,432,6,2023-02-01,2023-02-03
+2296,CUST1074,PROD5027,Desk,Furniture,Office,Consumer,North,Delhi,India,171888,32507,350,4,2023-03-04,2023-03-08
+2297,CUST1005,PROD5040,Pen,Stationery,Writing,Corporate,South,Delhi,India,108508,9224,122,4,2023-12-05,2023-12-12
+2298,CUST1072,PROD5032,Pen,Stationery,Writing,Home Office,West,Delhi,India,519099,67899,153,7,2023-01-26,2023-01-28
+2299,CUST1160,PROD5039,Pen,Stationery,Writing,Home Office,North,Delhi,India,109620,21549,127,2,2023-05-24,2023-05-30
+2300,CUST1052,PROD5045,Chair,Furniture,Office,Home Office,East,Hyderabad,India,145100,34136,405,2,2023-09-24,2023-09-29
+2301,CUST1140,PROD5007,Keyboard,Electronics,Accessories,Home Office,South,Hyderabad,India,117282,7835,81,2,2023-03-01,2023-03-06
+2302,CUST1100,PROD5015,Printer,Electronics,Office Machines,Consumer,North,Hyderabad,India,108308,14899,160,4,2023-01-12,2023-01-15
+2303,CUST1062,PROD5003,Mouse,Electronics,Accessories,Consumer,East,Hyderabad,India,83228,5803,164,2,2024-01-13,2024-01-20
+2304,CUST1116,PROD5043,Laptop,Electronics,Computers,Corporate,West,Bangalore,India,393408,22023,299,6,2023-12-31,2024-01-07
+2305,CUST1103,PROD5029,Desk,Furniture,Office,Corporate,North,Chennai,India,430087,34978,80,7,2023-10-23,2023-10-25
+2306,CUST1185,PROD5004,Notebook,Stationery,Paper,Home Office,North,Delhi,India,128760,35428,88,8,2023-08-23,2023-08-29
+2307,CUST1142,PROD5032,Pen,Stationery,Writing,Consumer,North,Chennai,India,396695,65501,428,5,2023-09-12,2023-09-19
+2308,CUST1019,PROD5050,Chair,Furniture,Office,Home Office,South,Chennai,India,563040,113433,446,9,2024-01-25,2024-01-27
+2309,CUST1024,PROD5045,Headset,Electronics,Audio,Consumer,North,Bangalore,India,188168,36231,197,8,2023-05-13,2023-05-16
+2310,CUST1130,PROD5042,Monitor,Electronics,Displays,Consumer,West,Mumbai,India,47770,5288,484,5,2023-08-30,2023-09-02
+2311,CUST1067,PROD5036,Notebook,Stationery,Paper,Consumer,North,Hyderabad,India,95264,24327,380,8,2023-08-15,2023-08-18
+2312,CUST1136,PROD5022,Keyboard,Electronics,Accessories,Corporate,East,Hyderabad,India,107790,24919,382,10,2024-02-05,2024-02-08
+2313,CUST1038,PROD5013,Monitor,Electronics,Displays,Home Office,South,Bangalore,India,269360,66609,440,10,2023-07-27,2023-08-02
+2314,CUST1085,PROD5028,Desk,Furniture,Office,Consumer,West,Hyderabad,India,358239,93013,188,7,2023-01-15,2023-01-22
+2315,CUST1098,PROD5001,Pen,Stationery,Writing,Home Office,West,Mumbai,India,34544,1807,220,2,2023-01-15,2023-01-20
+2316,CUST1156,PROD5017,Chair,Furniture,Office,Home Office,East,Hyderabad,India,248956,24613,426,4,2023-02-25,2023-03-04
+2317,CUST1092,PROD5047,Chair,Furniture,Office,Consumer,South,Chennai,India,34263,7862,79,1,2023-10-04,2023-10-08
+2318,CUST1145,PROD5040,Headset,Electronics,Audio,Consumer,West,Bangalore,India,413244,88682,401,6,2023-01-26,2023-01-29
+2319,CUST1133,PROD5014,Printer,Electronics,Office Machines,Consumer,North,Kolkata,India,234283,45027,362,7,2023-09-26,2023-10-02
+2320,CUST1199,PROD5003,Printer,Electronics,Office Machines,Corporate,West,Chennai,India,385855,92817,93,5,2023-10-23,2023-10-30
+2321,CUST1070,PROD5002,Notebook,Stationery,Paper,Corporate,South,Mumbai,India,220730,12024,222,10,2023-11-28,2023-12-02
+2322,CUST1188,PROD5048,Printer,Electronics,Office Machines,Home Office,West,Bangalore,India,466158,25856,422,6,2023-08-11,2023-08-13
+2323,CUST1142,PROD5006,Desk,Furniture,Office,Consumer,West,Mumbai,India,633465,32149,169,9,2023-07-21,2023-07-24
+2324,CUST1115,PROD5008,Mouse,Electronics,Accessories,Home Office,East,Delhi,India,38935,5121,394,5,2023-06-01,2023-06-04
+2325,CUST1082,PROD5020,Mouse,Electronics,Accessories,Consumer,North,Delhi,India,177496,23357,286,4,2023-07-27,2023-07-30
+2326,CUST1069,PROD5034,Chair,Furniture,Office,Home Office,South,Bangalore,India,58943,9904,464,1,2023-09-18,2023-09-20
+2327,CUST1151,PROD5021,Mouse,Electronics,Accessories,Corporate,South,Kolkata,India,17724,2991,427,1,2023-04-18,2023-04-23
+2328,CUST1082,PROD5035,Monitor,Electronics,Displays,Home Office,East,Mumbai,India,298612,83729,372,4,2023-05-07,2023-05-13
+2329,CUST1029,PROD5044,Desk,Furniture,Office,Corporate,North,Bangalore,India,751590,81138,192,10,2023-06-10,2023-06-13
+2330,CUST1021,PROD5019,Chair,Furniture,Office,Consumer,North,Hyderabad,India,119777,10824,248,7,2023-03-23,2023-03-28
+2331,CUST1043,PROD5006,Printer,Electronics,Office Machines,Corporate,East,Mumbai,India,234164,70231,394,7,2023-07-08,2023-07-10
+2332,CUST1091,PROD5030,Keyboard,Electronics,Accessories,Consumer,South,Hyderabad,India,185865,12148,339,3,2023-11-09,2023-11-12
+2333,CUST1128,PROD5028,Monitor,Electronics,Displays,Corporate,East,Kolkata,India,122130,14177,452,2,2023-08-20,2023-08-24
+2334,CUST1142,PROD5026,Desk,Furniture,Office,Consumer,West,Hyderabad,India,646659,108118,363,9,2023-10-05,2023-10-10
+2335,CUST1196,PROD5030,Headset,Electronics,Audio,Home Office,West,Bangalore,India,22309,1384,374,1,2023-03-24,2023-03-31
+2336,CUST1066,PROD5040,Chair,Furniture,Office,Corporate,West,Hyderabad,India,621630,58448,252,9,2023-01-03,2023-01-10
+2337,CUST1114,PROD5044,Notebook,Stationery,Paper,Corporate,South,Hyderabad,India,198918,22816,58,3,2023-08-13,2023-08-15
+2338,CUST1035,PROD5006,Mouse,Electronics,Accessories,Home Office,South,Kolkata,India,37183,2550,72,1,2023-05-20,2023-05-25
+2339,CUST1076,PROD5024,Chair,Furniture,Office,Consumer,West,Mumbai,India,19575,2333,491,5,2024-01-14,2024-01-18
+2340,CUST1102,PROD5011,Desk,Furniture,Office,Home Office,East,Chennai,India,105000,9203,375,5,2023-09-07,2023-09-09
+2341,CUST1104,PROD5011,Notebook,Stationery,Paper,Corporate,South,Chennai,India,21750,5894,427,1,2023-09-26,2023-09-30
+2342,CUST1055,PROD5008,Laptop,Electronics,Computers,Corporate,North,Hyderabad,India,466056,93492,186,6,2023-08-24,2023-08-27
+2343,CUST1110,PROD5017,Printer,Electronics,Office Machines,Home Office,East,Kolkata,India,452494,107130,450,7,2023-02-10,2023-02-17
+2344,CUST1117,PROD5037,Headset,Electronics,Audio,Home Office,West,Mumbai,India,184584,45357,153,3,2023-06-24,2023-06-28
+2345,CUST1136,PROD5009,Notebook,Stationery,Paper,Consumer,South,Hyderabad,India,169344,30314,68,9,2023-10-08,2023-10-12
+2346,CUST1116,PROD5007,Keyboard,Electronics,Accessories,Consumer,East,Bangalore,India,55200,12276,280,5,2023-05-15,2023-05-21
+2347,CUST1140,PROD5042,Pen,Stationery,Writing,Home Office,North,Bangalore,India,29556,5623,248,6,2023-03-08,2023-03-15
+2348,CUST1187,PROD5017,Laptop,Electronics,Computers,Corporate,West,Chennai,India,9081,2586,212,1,2023-01-14,2023-01-16
+2349,CUST1160,PROD5032,Pen,Stationery,Writing,Corporate,East,Mumbai,India,260120,36954,101,7,2023-08-31,2023-09-02
+2350,CUST1005,PROD5024,Printer,Electronics,Office Machines,Consumer,East,Mumbai,India,18506,3927,481,1,2023-07-27,2023-07-29
+2351,CUST1138,PROD5021,Desk,Furniture,Office,Home Office,East,Kolkata,India,493066,41074,314,7,2023-08-22,2023-08-24
+2352,CUST1156,PROD5031,Headset,Electronics,Audio,Corporate,West,Mumbai,India,251944,20174,87,8,2023-01-25,2023-01-31
+2353,CUST1057,PROD5024,Chair,Furniture,Office,Home Office,North,Delhi,India,153348,29379,146,6,2023-03-27,2023-04-03
+2354,CUST1070,PROD5050,Notebook,Stationery,Paper,Home Office,South,Kolkata,India,86290,5458,126,5,2023-05-10,2023-05-14
+2355,CUST1076,PROD5041,Monitor,Electronics,Displays,Consumer,South,Delhi,India,261600,63722,279,5,2024-01-18,2024-01-21
+2356,CUST1180,PROD5043,Mouse,Electronics,Accessories,Consumer,West,Hyderabad,India,430074,100846,190,6,2023-03-19,2023-03-25
+2357,CUST1153,PROD5043,Keyboard,Electronics,Accessories,Home Office,West,Bangalore,India,128172,30854,77,2,2023-06-06,2023-06-10
+2358,CUST1007,PROD5036,Monitor,Electronics,Displays,Home Office,West,Kolkata,India,57523,6037,205,1,2023-12-19,2023-12-22
+2359,CUST1084,PROD5017,Chair,Furniture,Office,Consumer,South,Kolkata,India,177394,50168,91,7,2023-11-13,2023-11-19
+2360,CUST1123,PROD5033,Laptop,Electronics,Computers,Consumer,East,Delhi,India,81084,22144,364,2,2023-09-22,2023-09-28
+2361,CUST1137,PROD5033,Chair,Furniture,Office,Corporate,West,Chennai,India,119235,30956,446,3,2023-01-02,2023-01-05
+2362,CUST1011,PROD5012,Laptop,Electronics,Computers,Home Office,South,Bangalore,India,215334,22670,154,3,2023-06-17,2023-06-20
+2363,CUST1154,PROD5014,Chair,Furniture,Office,Home Office,South,Kolkata,India,554295,79342,259,7,2023-09-25,2023-09-30
+2364,CUST1024,PROD5034,Laptop,Electronics,Computers,Home Office,South,Kolkata,India,146520,37603,368,4,2023-12-26,2023-12-29
+2365,CUST1053,PROD5011,Printer,Electronics,Office Machines,Home Office,North,Chennai,India,48352,3949,205,4,2023-09-10,2023-09-15
+2366,CUST1066,PROD5031,Headset,Electronics,Audio,Corporate,North,Chennai,India,156172,15974,415,2,2023-10-03,2023-10-08
+2367,CUST1190,PROD5004,Mouse,Electronics,Accessories,Home Office,South,Delhi,India,179898,40159,189,6,2023-02-07,2023-02-14
+2368,CUST1082,PROD5006,Mouse,Electronics,Accessories,Corporate,North,Hyderabad,India,196170,56487,120,6,2023-06-30,2023-07-03
+2369,CUST1161,PROD5034,Mouse,Electronics,Accessories,Home Office,North,Kolkata,India,446173,22985,193,7,2023-10-28,2023-11-04
+2370,CUST1199,PROD5016,Desk,Furniture,Office,Consumer,West,Bangalore,India,349881,86504,437,7,2023-03-03,2023-03-09
+2371,CUST1140,PROD5004,Pen,Stationery,Writing,Consumer,East,Kolkata,India,221391,64765,232,3,2024-01-22,2024-01-24
+2372,CUST1001,PROD5022,Printer,Electronics,Office Machines,Home Office,North,Delhi,India,62198,16367,306,1,2024-01-10,2024-01-14
+2373,CUST1014,PROD5028,Chair,Furniture,Office,Corporate,West,Delhi,India,52028,9062,124,4,2023-08-30,2023-09-04
+2374,CUST1172,PROD5036,Laptop,Electronics,Computers,Consumer,South,Bangalore,India,34977,3774,78,3,2023-07-13,2023-07-17
+2375,CUST1152,PROD5017,Pen,Stationery,Writing,Consumer,West,Hyderabad,India,78076,14078,52,4,2023-12-19,2023-12-24
+2376,CUST1025,PROD5049,Mouse,Electronics,Accessories,Consumer,West,Delhi,India,281176,62438,338,8,2023-10-18,2023-10-24
+2377,CUST1081,PROD5002,Monitor,Electronics,Displays,Corporate,East,Delhi,India,282114,43774,168,9,2023-07-02,2023-07-04
+2378,CUST1188,PROD5018,Chair,Furniture,Office,Home Office,South,Mumbai,India,476712,41320,245,6,2023-06-14,2023-06-17
+2379,CUST1157,PROD5032,Headset,Electronics,Audio,Consumer,South,Mumbai,India,243932,35435,358,4,2023-10-12,2023-10-18
+2380,CUST1161,PROD5031,Keyboard,Electronics,Accessories,Corporate,East,Delhi,India,139464,41296,373,2,2023-06-23,2023-06-30
+2381,CUST1064,PROD5034,Notebook,Stationery,Paper,Consumer,West,Bangalore,India,154945,10304,446,5,2023-04-13,2023-04-16
+2382,CUST1185,PROD5050,Headset,Electronics,Audio,Corporate,East,Delhi,India,97734,5327,262,3,2024-01-26,2024-02-02
+2383,CUST1083,PROD5018,Monitor,Electronics,Displays,Corporate,East,Chennai,India,59219,16541,398,1,2023-08-20,2023-08-22
+2384,CUST1029,PROD5001,Keyboard,Electronics,Accessories,Home Office,East,Chennai,India,316030,61720,193,10,2023-05-04,2023-05-08
+2385,CUST1194,PROD5013,Mouse,Electronics,Accessories,Consumer,East,Mumbai,India,203287,33337,76,7,2023-10-25,2023-10-27
+2386,CUST1086,PROD5024,Pen,Stationery,Writing,Consumer,West,Mumbai,India,67796,12453,184,4,2023-08-20,2023-08-22
+2387,CUST1193,PROD5012,Mouse,Electronics,Accessories,Corporate,West,Hyderabad,India,414710,106677,324,10,2023-11-07,2023-11-10
+2388,CUST1186,PROD5018,Pen,Stationery,Writing,Corporate,South,Kolkata,India,157722,14017,179,6,2023-03-12,2023-03-18
+2389,CUST1153,PROD5011,Mouse,Electronics,Accessories,Corporate,West,Mumbai,India,409504,79161,264,8,2023-09-05,2023-09-12
+2390,CUST1169,PROD5032,Headset,Electronics,Audio,Corporate,East,Hyderabad,India,194976,45890,436,4,2023-07-03,2023-07-09
+2391,CUST1037,PROD5039,Monitor,Electronics,Displays,Corporate,West,Bangalore,India,317676,83037,73,6,2023-05-04,2023-05-08
+2392,CUST1113,PROD5025,Printer,Electronics,Office Machines,Consumer,East,Chennai,India,6633,992,399,9,2023-05-08,2023-05-11
+2393,CUST1156,PROD5013,Laptop,Electronics,Computers,Corporate,South,Bangalore,India,657210,104097,188,10,2023-01-22,2023-01-27
+2394,CUST1088,PROD5042,Chair,Furniture,Office,Consumer,East,Kolkata,India,713952,172820,281,9,2023-02-01,2023-02-05
+2395,CUST1191,PROD5033,Chair,Furniture,Office,Consumer,South,Mumbai,India,540330,132772,219,7,2023-01-15,2023-01-18
+2396,CUST1032,PROD5044,Pen,Stationery,Writing,Home Office,South,Mumbai,India,172656,47636,164,9,2023-08-18,2023-08-24
+2397,CUST1009,PROD5039,Pen,Stationery,Writing,Home Office,South,Hyderabad,India,58016,7529,138,7,2023-03-30,2023-04-02
+2398,CUST1027,PROD5012,Notebook,Stationery,Paper,Consumer,North,Bangalore,India,360856,30389,282,8,2023-01-03,2023-01-05
+2399,CUST1085,PROD5048,Pen,Stationery,Writing,Home Office,South,Bangalore,India,315288,28665,311,9,2023-06-18,2023-06-20
+2400,CUST1184,PROD5020,Desk,Furniture,Office,Corporate,East,Delhi,India,359424,86668,67,9,2023-03-12,2023-03-14
+2401,CUST1074,PROD5033,Desk,Furniture,Office,Home Office,West,Mumbai,India,17160,2510,261,3,2023-12-03,2023-12-07
+2402,CUST1128,PROD5016,Printer,Electronics,Office Machines,Home Office,West,Delhi,India,46764,6964,73,3,2023-08-24,2023-08-26
+2403,CUST1168,PROD5027,Headset,Electronics,Audio,Home Office,South,Chennai,India,206672,16028,62,4,2023-04-12,2023-04-16
+2404,CUST1144,PROD5012,Notebook,Stationery,Paper,Corporate,North,Bangalore,India,442100,74099,143,10,2024-01-01,2024-01-05
+2405,CUST1025,PROD5042,Notebook,Stationery,Paper,Home Office,North,Mumbai,India,83396,9207,158,2,2023-12-01,2023-12-04
+2406,CUST1163,PROD5035,Desk,Furniture,Office,Consumer,West,Mumbai,India,101660,15337,136,10,2023-03-22,2023-03-25
+2407,CUST1121,PROD5019,Printer,Electronics,Office Machines,Home Office,East,Chennai,India,717030,95056,253,9,2023-01-10,2023-01-17
+2408,CUST1087,PROD5027,Chair,Furniture,Office,Home Office,South,Kolkata,India,147294,11736,203,9,2023-10-28,2023-11-02
+2409,CUST1109,PROD5009,Headset,Electronics,Audio,Consumer,North,Mumbai,India,259735,25941,490,7,2023-12-20,2023-12-27
+2410,CUST1018,PROD5030,Headset,Electronics,Audio,Consumer,South,Bangalore,India,159390,40835,59,10,2023-04-15,2023-04-21
+2411,CUST1015,PROD5028,Notebook,Stationery,Paper,Corporate,North,Kolkata,India,474966,32561,331,6,2023-11-06,2023-11-09
+2412,CUST1013,PROD5011,Headset,Electronics,Audio,Consumer,East,Hyderabad,India,112490,29311,107,2,2023-11-27,2023-12-03
+2413,CUST1086,PROD5036,Desk,Furniture,Office,Consumer,North,Delhi,India,193748,31339,492,4,2023-12-10,2023-12-17
+2414,CUST1170,PROD5013,Keyboard,Electronics,Accessories,Consumer,West,Chennai,India,66920,10690,445,4,2023-10-10,2023-10-15
+2415,CUST1048,PROD5040,Printer,Electronics,Office Machines,Corporate,South,Hyderabad,India,251832,56626,196,8,2023-10-02,2023-10-04
+2416,CUST1060,PROD5007,Pen,Stationery,Writing,Corporate,East,Kolkata,India,444822,103251,467,7,2023-10-27,2023-10-29
+2417,CUST1116,PROD5006,Laptop,Electronics,Computers,Home Office,East,Delhi,India,302925,55034,263,5,2023-01-05,2023-01-09
+2418,CUST1153,PROD5004,Monitor,Electronics,Displays,Corporate,East,Mumbai,India,213444,14505,380,9,2023-06-20,2023-06-27
+2419,CUST1010,PROD5026,Printer,Electronics,Office Machines,Corporate,East,Delhi,India,101660,9535,72,5,2023-12-13,2023-12-19
+2420,CUST1077,PROD5045,Laptop,Electronics,Computers,Consumer,East,Delhi,India,211737,41173,428,3,2023-12-19,2023-12-22
+2421,CUST1178,PROD5033,Notebook,Stationery,Paper,Home Office,East,Hyderabad,India,659601,83451,466,9,2023-04-21,2023-04-27
+2422,CUST1179,PROD5017,Headset,Electronics,Audio,Consumer,South,Mumbai,India,788290,215604,337,10,2023-02-27,2023-03-04
+2423,CUST1182,PROD5043,Mouse,Electronics,Accessories,Corporate,North,Bangalore,India,57638,13039,355,2,2023-03-28,2023-04-02
+2424,CUST1107,PROD5040,Laptop,Electronics,Computers,Home Office,West,Chennai,India,639171,184665,434,9,2023-08-02,2023-08-06
+2425,CUST1086,PROD5045,Chair,Furniture,Office,Consumer,East,Mumbai,India,416310,55714,195,6,2023-09-24,2023-09-27
+2426,CUST1093,PROD5037,Printer,Electronics,Office Machines,Consumer,East,Mumbai,India,16475,3185,219,1,2023-10-19,2023-10-26
+2427,CUST1166,PROD5006,Mouse,Electronics,Accessories,Consumer,West,Hyderabad,India,523530,46207,277,7,2024-01-07,2024-01-11
+2428,CUST1057,PROD5022,Chair,Furniture,Office,Consumer,East,Bangalore,India,722860,210229,259,10,2023-02-19,2023-02-26
+2429,CUST1151,PROD5030,Mouse,Electronics,Accessories,Consumer,East,Chennai,India,154138,22066,418,2,2023-10-30,2023-11-01
+2430,CUST1097,PROD5039,Printer,Electronics,Office Machines,Home Office,North,Bangalore,India,215390,59057,174,7,2023-02-23,2023-02-26
+2431,CUST1042,PROD5013,Mouse,Electronics,Accessories,Home Office,West,Bangalore,India,513100,46671,55,10,2023-03-28,2023-04-03
+2432,CUST1174,PROD5049,Notebook,Stationery,Paper,Consumer,West,Bangalore,India,376524,56121,192,9,2023-11-25,2023-11-28
+2433,CUST1012,PROD5039,Printer,Electronics,Office Machines,Home Office,East,Chennai,India,28392,1862,366,2,2023-11-15,2023-11-20
+2434,CUST1071,PROD5017,Keyboard,Electronics,Accessories,Consumer,South,Hyderabad,India,320140,17898,341,10,2023-03-09,2023-03-16
+2435,CUST1008,PROD5030,Keyboard,Electronics,Accessories,Consumer,East,Chennai,India,79692,20619,80,3,2023-10-17,2023-10-19
+2436,CUST1141,PROD5045,Desk,Furniture,Office,Consumer,North,Hyderabad,India,534897,99957,76,9,2023-06-27,2023-06-29
+2437,CUST1019,PROD5045,Laptop,Electronics,Computers,Consumer,West,Bangalore,India,54225,13144,75,3,2023-03-25,2023-03-30
+2438,CUST1089,PROD5018,Headset,Electronics,Audio,Corporate,East,Kolkata,India,614944,34501,462,8,2023-09-29,2023-10-06
+2439,CUST1039,PROD5043,Desk,Furniture,Office,Home Office,West,Bangalore,India,79017,9496,489,3,2023-01-21,2023-01-25
+2440,CUST1109,PROD5030,Chair,Furniture,Office,Consumer,South,Delhi,India,86516,18950,173,2,2023-05-11,2023-05-14
+2441,CUST1175,PROD5016,Pen,Stationery,Writing,Corporate,South,Chennai,India,300930,53990,283,10,2023-09-22,2023-09-24
+2442,CUST1081,PROD5039,Monitor,Electronics,Displays,Corporate,East,Chennai,India,158532,8909,67,6,2023-10-15,2023-10-22
+2443,CUST1184,PROD5050,Pen,Stationery,Writing,Home Office,South,Delhi,India,124320,27603,290,3,2023-08-15,2023-08-17
+2444,CUST1133,PROD5030,Keyboard,Electronics,Accessories,Home Office,North,Bangalore,India,256128,34714,419,4,2023-08-10,2023-08-16
+2445,CUST1150,PROD5033,Chair,Furniture,Office,Corporate,East,Kolkata,India,182856,35878,340,4,2023-08-10,2023-08-17
+2446,CUST1200,PROD5041,Pen,Stationery,Writing,Home Office,West,Bangalore,India,221948,47815,157,4,2023-03-12,2023-03-14
+2447,CUST1166,PROD5018,Keyboard,Electronics,Accessories,Consumer,East,Mumbai,India,49872,11623,236,8,2023-02-22,2023-03-01
+2448,CUST1076,PROD5001,Mouse,Electronics,Accessories,Home Office,North,Hyderabad,India,426700,51254,457,10,2023-08-02,2023-08-08
+2449,CUST1161,PROD5016,Chair,Furniture,Office,Corporate,South,Mumbai,India,421148,32816,223,7,2023-06-12,2023-06-14
+2450,CUST1015,PROD5025,Desk,Furniture,Office,Home Office,East,Delhi,India,90776,6503,53,2,2023-11-21,2023-11-27
+2451,CUST1011,PROD5019,Printer,Electronics,Office Machines,Consumer,North,Chennai,India,100232,13656,288,8,2023-11-19,2023-11-26
+2452,CUST1172,PROD5003,Desk,Furniture,Office,Home Office,North,Hyderabad,India,217690,21439,256,5,2023-04-04,2023-04-10
+2453,CUST1184,PROD5001,Printer,Electronics,Office Machines,Consumer,North,Mumbai,India,189546,23055,344,6,2023-02-08,2023-02-13
+2454,CUST1085,PROD5015,Mouse,Electronics,Accessories,Home Office,North,Bangalore,India,400352,74855,50,8,2023-10-19,2023-10-21
+2455,CUST1125,PROD5018,Printer,Electronics,Office Machines,Consumer,North,Bangalore,India,497360,93922,207,10,2023-06-10,2023-06-12
+2456,CUST1105,PROD5050,Chair,Furniture,Office,Home Office,North,Delhi,India,73155,11056,147,3,2023-06-23,2023-06-30
+2457,CUST1108,PROD5047,Mouse,Electronics,Accessories,Home Office,West,Chennai,India,433434,86135,106,6,2023-10-02,2023-10-06
+2458,CUST1063,PROD5042,Mouse,Electronics,Accessories,Consumer,East,Kolkata,India,484590,133329,243,10,2023-02-18,2023-02-20
+2459,CUST1180,PROD5017,Keyboard,Electronics,Accessories,Corporate,South,Mumbai,India,688788,197075,468,9,2023-07-07,2023-07-10
+2460,CUST1089,PROD5027,Laptop,Electronics,Computers,Home Office,East,Mumbai,India,633942,68282,130,9,2023-08-05,2023-08-07
+2461,CUST1180,PROD5049,Notebook,Stationery,Paper,Corporate,South,Bangalore,India,33527,4412,412,1,2023-11-13,2023-11-15
+2462,CUST1059,PROD5017,Keyboard,Electronics,Accessories,Consumer,North,Bangalore,India,39688,11306,360,1,2023-12-12,2023-12-19
+2463,CUST1024,PROD5025,Laptop,Electronics,Computers,Consumer,North,Kolkata,India,491706,123767,389,9,2023-12-14,2023-12-21
+2464,CUST1060,PROD5038,Pen,Stationery,Writing,Consumer,East,Chennai,India,539840,143782,272,7,2023-03-01,2023-03-07
+2465,CUST1020,PROD5009,Desk,Furniture,Office,Consumer,East,Delhi,India,85371,14878,269,3,2023-03-01,2023-03-03
+2466,CUST1061,PROD5006,Printer,Electronics,Office Machines,Consumer,West,Delhi,India,578610,95002,150,10,2023-02-14,2023-02-19
+2467,CUST1126,PROD5050,Laptop,Electronics,Computers,Consumer,South,Kolkata,India,8724,2311,244,1,2023-06-07,2023-06-09
+2468,CUST1141,PROD5038,Monitor,Electronics,Displays,Home Office,North,Delhi,India,147364,33906,487,4,2023-10-01,2023-10-03
+2469,CUST1054,PROD5004,Monitor,Electronics,Displays,Corporate,East,Kolkata,India,288590,53219,231,5,2023-07-11,2023-07-14
+2470,CUST1037,PROD5034,Notebook,Stationery,Paper,Corporate,East,Bangalore,India,143722,10923,353,2,2023-09-15,2023-09-21
+2471,CUST1081,PROD5027,Chair,Furniture,Office,Corporate,West,Mumbai,India,395658,40243,398,9,2023-05-20,2023-05-25
+2472,CUST1183,PROD5009,Pen,Stationery,Writing,Consumer,South,Delhi,India,306288,23461,376,8,2023-09-03,2023-09-05
+2473,CUST1125,PROD5009,Mouse,Electronics,Accessories,Corporate,East,Delhi,India,270336,77044,230,8,2023-03-09,2023-03-11
+2474,CUST1117,PROD5008,Chair,Furniture,Office,Home Office,East,Chennai,India,459900,30610,406,7,2024-01-22,2024-01-25
+2475,CUST1177,PROD5035,Monitor,Electronics,Displays,Corporate,North,Kolkata,India,21809,1445,258,1,2023-05-25,2023-05-31
+2476,CUST1091,PROD5009,Desk,Furniture,Office,Home Office,East,Kolkata,India,39802,6503,183,1,2023-01-24,2023-01-30
+2477,CUST1173,PROD5026,Printer,Electronics,Office Machines,Consumer,West,Mumbai,India,25074,1504,425,2,2023-11-24,2023-11-29
+2478,CUST1066,PROD5014,Mouse,Electronics,Accessories,Home Office,South,Bangalore,India,319704,38405,116,6,2023-08-26,2023-08-30
+2479,CUST1062,PROD5043,Mouse,Electronics,Accessories,Corporate,North,Mumbai,India,376825,34609,101,5,2023-03-22,2023-03-27
+2480,CUST1147,PROD5017,Printer,Electronics,Office Machines,Consumer,South,Chennai,India,81592,20717,61,7,2023-12-29,2024-01-02
+2481,CUST1078,PROD5030,Chair,Furniture,Office,Home Office,North,Bangalore,India,251910,69696,225,6,2023-04-03,2023-04-05
+2482,CUST1182,PROD5020,Mouse,Electronics,Accessories,Consumer,West,Chennai,India,214895,59105,384,5,2023-06-26,2023-06-28
+2483,CUST1086,PROD5029,Pen,Stationery,Writing,Consumer,West,Mumbai,India,27944,5197,400,4,2023-11-21,2023-11-23
+2484,CUST1080,PROD5049,Desk,Furniture,Office,Home Office,South,Kolkata,India,216063,46547,231,9,2023-05-29,2023-06-05
+2485,CUST1084,PROD5042,Headset,Electronics,Audio,Consumer,West,Mumbai,India,625770,72000,402,9,2024-01-27,2024-01-29
+2486,CUST1143,PROD5038,Desk,Furniture,Office,Consumer,South,Kolkata,India,164934,24608,166,6,2023-09-04,2023-09-06
+2487,CUST1094,PROD5007,Notebook,Stationery,Paper,Corporate,South,Mumbai,India,62950,8593,224,5,2023-03-11,2023-03-14
+2488,CUST1036,PROD5043,Mouse,Electronics,Accessories,Corporate,North,Kolkata,India,391475,63352,370,7,2023-01-10,2023-01-14
+2489,CUST1016,PROD5024,Desk,Furniture,Office,Consumer,North,Delhi,India,318633,89311,350,7,2024-01-26,2024-01-30
+2490,CUST1014,PROD5049,Printer,Electronics,Office Machines,Corporate,West,Hyderabad,India,281457,16115,260,9,2023-11-23,2023-11-26
+2491,CUST1040,PROD5019,Chair,Furniture,Office,Consumer,East,Delhi,India,301473,34045,113,9,2023-08-10,2023-08-12
+2492,CUST1102,PROD5039,Headset,Electronics,Audio,Corporate,East,Mumbai,India,358497,60787,115,9,2023-04-18,2023-04-25
+2493,CUST1183,PROD5001,Printer,Electronics,Office Machines,Corporate,North,Mumbai,India,48879,9847,134,3,2023-09-03,2023-09-08
+2494,CUST1031,PROD5019,Headset,Electronics,Audio,Home Office,South,Chennai,India,188880,35397,55,5,2023-04-19,2023-04-24
+2495,CUST1133,PROD5015,Headset,Electronics,Audio,Home Office,West,Bangalore,India,17020,2041,301,1,2023-03-09,2023-03-11
+2496,CUST1053,PROD5030,Keyboard,Electronics,Accessories,Consumer,East,Mumbai,India,3800,1134,276,5,2023-02-05,2023-02-07
+2497,CUST1102,PROD5025,Keyboard,Electronics,Accessories,Consumer,East,Delhi,India,459350,80423,431,10,2024-01-08,2024-01-14
+2498,CUST1123,PROD5033,Notebook,Stationery,Paper,Consumer,East,Chennai,India,298605,45199,265,5,2023-06-01,2023-06-07
+2499,CUST1040,PROD5045,Headset,Electronics,Audio,Consumer,East,Kolkata,India,124490,26672,430,5,2023-02-28,2023-03-02
+2500,CUST1109,PROD5047,Monitor,Electronics,Displays,Consumer,East,Mumbai,India,37230,3407,403,6,2023-11-04,2023-11-09
