@@ -1,4 +1,4 @@
-# Task 4 – Sales Dashboard Design (Elevate Labs Internship)
+# Task 4 – Sales Dashboard Design 
 
 
 This project is created using Microsoft Power BI with the Product Sales dataset.
